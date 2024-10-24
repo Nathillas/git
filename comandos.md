@@ -1,1 +1,2 @@
 
+![imagen](/img/esquema.jepg)
