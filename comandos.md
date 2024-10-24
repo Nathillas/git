@@ -1,2 +1,2 @@
 
-![imagen](/img/esquema.jepg)
+![imagen](/img/esquema.jpeg)
